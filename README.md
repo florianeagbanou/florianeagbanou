@@ -33,4 +33,4 @@ The three main projects form one story: **build** a banking system, **monitor** 
 - **Course registration system**: redesign of an existing Java application with six design patterns and 61 JUnit tests.
 - **kover**: command-line application in C, tested with Bats and built in GitLab CI.
 
-Looking for a first role in software development, QA or cybersecurity. Contact: florianejessicaagbanou@gmail.com
+Looking for a first role in software where I can build, test and secure reliable systems. Contact: florianejessicaagbanou@gmail.com
