@@ -20,12 +20,12 @@ The three main projects form one story: **build** a banking system, **monitor** 
 
 ## Skills
 
-**Languages:** Java · JavaScript · Python · SQL · C · C++ · C#
-**Back end:** Spring Boot · REST APIs · JWT · Flask
-**Data:** PostgreSQL · MySQL · window functions · Flyway
-**Testing:** JUnit · Mockito · pytest · Playwright · Locust
-**Security:** OWASP · log analysis · MITRE ATT&CK
-**Tools:** Linux · Git · GitLab · GitHub Actions · Docker · Maven · Jira
+- **Languages:** Java · JavaScript · Python · SQL · C · C++ · C#
+- **Back end:** Spring Boot · REST APIs · JWT · Flask
+- **Data:** PostgreSQL · MySQL · window functions · Flyway
+- **Testing:** JUnit · Mockito · pytest · Playwright · Locust
+- **Security:** OWASP · log analysis · MITRE ATT&CK
+- **Tools:** Linux · Git · GitLab · GitHub Actions · Docker · Maven · Jira
 
 ## University projects (private repositories)
 
